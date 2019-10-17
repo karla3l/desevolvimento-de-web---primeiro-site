@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkred;
+}
+#myCarousel{
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    background-color: black;
+    text-align: center;
+    
+}
+
+#imagem {
+    height: 300px;
+    width: 500px;
+    overflow-x: auto;
+    display:inline-block;
+
+}
+#image ul {
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+
+#novidade{
+    position: absolute;
+    top: 350px;
+    left: 240px;
+    height: 50px;
+    width: 100px;
+}
+
+#texto{
+    position: relative;
+    text-align: center;
+}
+

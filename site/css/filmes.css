@@ -1,0 +1,78 @@
+body{
+    padding: 0px;
+    border: 0px;
+    background-color: darkred;
+}
+#cine {
+    top: -5px;
+    position: absolute;
+    background: darkslateblue;
+    border-color: darkred;
+    border: 2px;
+    width: 1360px;
+    height: 150px;
+    left: 0px;
+    
+
+}
+
+#c{
+    top: 85px;
+    position: absolute;
+    width: 1000px;
+    height: 250px;
+    left: 170px;
+
+
+}
+
+
+
+
+#conjunto{
+    top: 320px;
+    position: relative;
+    width: 1360px;
+    height: 700px;
+    background: black;
+    
+
+
+}
+
+#texto{
+
+    position: absolute;
+    top: 1010px ;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#thanos{
+    top: 920px;
+    position: relative;
+    width: 1360px;
+    height: 550px;
+    left: 280px;
+
+}
+
+#propaganda{
+    top: 700px;
+    position: relative;
+    width: 1360px;
+    height: 550px;
+    left: 200px;
+    width: 1000;
+    height: 200px;
+    margin: 10px;
+    
+
+}
+
+
+
+
+    
+
+

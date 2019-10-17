@@ -1,0 +1,35 @@
+body{
+    padding: 0px;
+    border: 0px;
+    background-color: darkred;
+}
+
+
+#top{
+    width: 1350px;
+    height: 300px;
+    left: 0px;
+    top: 5px;
+    position: absolute;
+   
+
+
+}
+#série {
+   left: 0px;
+    top: 310px;
+    position: absolute;
+
+}
+
+
+
+#texto{
+
+    position: absolute;
+    top: 1100px ;
+    text-align: center;
+    color: whitesmoke
+}
+
+

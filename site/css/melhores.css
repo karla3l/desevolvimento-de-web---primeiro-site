@@ -1,0 +1,55 @@
+#body {
+   
+        padding: 0px;
+        border: 0px;
+        background-color: 
+
+}
+
+#netflix {
+    position: absolute;
+    top: -100px;
+    left: 0px;
+    width: 100%;
+
+}
+table{
+    border-spacing: 0.1cm;
+    border-collapse: separate;
+    text-align: center;
+    position: absolute;
+    top: 660px;
+    left: 0px;
+}
+
+td {
+    padding: 5px;
+    background-color: greenyellow
+}
+
+thead{
+    background-color:red;
+}
+
+thead th{
+    text-align:  center;
+}
+
+th {
+    margin-top: 5px;
+    color: whitesmoke;
+}
+
+#texto {
+    text-align: center;
+    top: 900px;
+    position: absolute;
+}
+#g{
+    width: 100%;
+    height: 90%;
+    top: 1400px;
+    left: 0px;
+    position: absolute;
+   border: darkred;
+}
